@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForms.Minimart", "WinForms.Minimart.csproj", "{009FD646-EB98-4AB1-A841-FE3DE598CCC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{009FD646-EB98-4AB1-A841-FE3DE598CCC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{009FD646-EB98-4AB1-A841-FE3DE598CCC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{009FD646-EB98-4AB1-A841-FE3DE598CCC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{009FD646-EB98-4AB1-A841-FE3DE598CCC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8AF436A7-9D56-46CE-A213-703FB9C8A0B6}
+	EndGlobalSection
+EndGlobal
